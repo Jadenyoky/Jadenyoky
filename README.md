@@ -54,9 +54,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadenyoky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jadenyoky&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jadenyoky&locale=en&mode=daily&theme=default&hide_border=true&border_radius=12&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadenyoky&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=33333350" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadenyoky&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jadenyoky&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=12&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadenyoky&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
