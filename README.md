@@ -73,6 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jadenyoky/jadenyoky/output/snake.svg" alt="Snake animation" />
+<img src="snake-jaden.svg" alt="Snake animation" />
 
 ###
