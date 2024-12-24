@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadenyoky.jadenyoky&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jadenyoky.Jadenyoky&"  />
 </div>
 
 ###
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jadenyoky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jadenyoky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
