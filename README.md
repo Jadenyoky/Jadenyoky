@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jadenyoky.jadenyoky&left_color=teal&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jadenyoky.jadenyoky&left_color=black"  />
 
 ###
 
@@ -73,6 +73,6 @@
 
 ###
 
-<img src="snake-jaden.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jadenyoky/jadenyoky/output/snake.svg" alt="Snake animation" />
 
 ###
